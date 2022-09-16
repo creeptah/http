@@ -15,6 +15,11 @@ body{
 
 }
 
+h1,.white{
+    font-size: 3rem;
+    color: #fff;
+}
+
 h2,.white{
     color: #fff;
 }
